@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    ## To Do
      
 
- <img src="https://i.hizliresim.com/fdhb0ou.pngg"
+ <img src="https://i.hizliresim.com/fdhb0ou.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
