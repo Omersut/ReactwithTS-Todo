@@ -2,7 +2,7 @@
 
 ### ReactJS, Typescript, localStorage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  For demo: [Click](https://demo-trading-crypto.vercel.app/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  For demo: [Click](http://reactwith-ts-todo.vercel.app/)
 
    ## To Do
      
